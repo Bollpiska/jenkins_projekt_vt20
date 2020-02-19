@@ -8,3 +8,6 @@ För att köra programmet i Eclipse behöver du importera det som ett maven-proj
 För att köra programmet ifrån teminalen så behöver du ha java och maven installerat.
 Kör sedan kommandot mvn package assembly:single och lägg därefter jar-filerna på classpathen när du kör java:
 java -cp ContactBook-1.0-SNAPSHOT-jar-with-dependencies.jar:ContactBook-1.0-SNAPSHOT.jar cizero.domain.Main
+
+
+HEJ HEJ
