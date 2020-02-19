@@ -10,4 +10,4 @@ Kör sedan kommandot mvn package assembly:single och lägg därefter jar-filerna
 java -cp ContactBook-1.0-SNAPSHOT-jar-with-dependencies.jar:ContactBook-1.0-SNAPSHOT.jar cizero.domain.Main
 
 
-HEJ HEJ J ALÖKJSGOIj
+HEJ HEJ J ALÖKJSGOIjajsoigjsaoigjsoiajgijdsag
